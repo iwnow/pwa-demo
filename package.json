@@ -1,0 +1,11 @@
+{
+  "name": "pwa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iwnow/pwa-demo.git",
+  "author": "Vostroknutov Vitaliy <vostroknutov@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
